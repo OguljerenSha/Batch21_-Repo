@@ -1,3 +1,4 @@
 added another file here
 this class is little confusing
 we were cloning remote to locale
+more stuff here as well
